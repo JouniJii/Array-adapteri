@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arrayadapteri</string>
+    <string name="button_delete">Remove</string>
+    <string name="button_add">Add time</string>
+</resources>
